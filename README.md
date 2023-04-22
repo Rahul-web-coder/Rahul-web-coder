@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-web-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-web-coder" /> </p>
 
-- 🌱 I’m currently learning **B.Tech In Computer Science**
+- 🌱 Completed learning **B.Tech In Computer Science**
 
 - 📫 How to reach me **rahulmahato440@gmail.com**
 
